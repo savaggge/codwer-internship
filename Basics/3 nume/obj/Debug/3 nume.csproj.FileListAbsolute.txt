@@ -1,0 +1,8 @@
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\bin\Debug\3 nume.exe.config
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\bin\Debug\3 nume.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\bin\Debug\3 nume.pdb
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\obj\Debug\3 nume.csproj.AssemblyReference.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\obj\Debug\3 nume.csproj.SuggestedBindingRedirects.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\obj\Debug\3 nume.csproj.CoreCompileInputs.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\obj\Debug\3 nume.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\3 nume\obj\Debug\3 nume.pdb
