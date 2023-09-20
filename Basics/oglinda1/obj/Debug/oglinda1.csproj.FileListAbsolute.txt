@@ -1,0 +1,8 @@
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\bin\Debug\oglinda1.exe.config
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\bin\Debug\oglinda1.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\bin\Debug\oglinda1.pdb
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\obj\Debug\oglinda1.csproj.AssemblyReference.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\obj\Debug\oglinda1.csproj.SuggestedBindingRedirects.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\obj\Debug\oglinda1.csproj.CoreCompileInputs.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\obj\Debug\oglinda1.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\oglinda1\obj\Debug\oglinda1.pdb

@@ -1,0 +1,8 @@
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\bin\Debug\lista de numere.exe.config
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\bin\Debug\lista de numere.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\bin\Debug\lista de numere.pdb
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\obj\Debug\lista de numere.csproj.AssemblyReference.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\obj\Debug\lista de numere.csproj.SuggestedBindingRedirects.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\obj\Debug\lista de numere.csproj.CoreCompileInputs.cache
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\obj\Debug\lista de numere.exe
+C:\Users\savage\Desktop\CODWER-intership\Basics\lista de numere\obj\Debug\lista de numere.pdb
