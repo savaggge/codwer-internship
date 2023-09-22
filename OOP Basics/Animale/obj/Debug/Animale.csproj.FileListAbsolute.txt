@@ -1,0 +1,8 @@
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\obj\Debug\Animale.csproj.AssemblyReference.cache
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\obj\Debug\Animale.csproj.SuggestedBindingRedirects.cache
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\obj\Debug\Animale.csproj.CoreCompileInputs.cache
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\bin\Debug\Animale.exe.config
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\bin\Debug\Animale.exe
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\bin\Debug\Animale.pdb
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\obj\Debug\Animale.exe
+C:\Users\savage\Desktop\GITHHUB\codwer-internship\OOP Basics\Animale\obj\Debug\Animale.pdb
