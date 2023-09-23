@@ -63,6 +63,16 @@ namespace Animale
                    $"Dimensiuni: {Dimensiuni.Lungime} x {Dimensiuni.Latime} x {Dimensiuni.Inaltime}\n" +
                    $"Viteza: {Viteza} m/s";
         }
+
+        internal bool VerificaMancare(Planta salata)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal bool VerificaMancare(Carne sunca)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }
