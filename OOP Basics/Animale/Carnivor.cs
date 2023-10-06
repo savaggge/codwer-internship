@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Animale
+﻿namespace Animale
 {
     public class Carnivor : Animal
     {
         public Carnivor(string nume, decimal greutate, Dimensiune dimensiuni, decimal viteza)
             : base(nume, greutate, dimensiuni, viteza)
         {
+
         }
 
         protected override bool VerificaMancare(Mancare m)

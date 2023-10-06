@@ -1,8 +1,6 @@
 ﻿using Animale;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
 
 
 namespace NumeleSpatiuluiDeNume
@@ -74,15 +72,60 @@ namespace NumeleSpatiuluiDeNume
                     }
                 }
             }
+            int numarAnimalePlante = 0;
+            int numarAnimaleMancare = 0;
+            int numarAnimaleCarne = 0;
+            int numarAnimaleOmnivor = 0;
+
 
             // j. Afișarea statisticilor
-            int numarAnimaleMancare = animale.Count(a => a.VerificaMancare(salata));
-            int numarAnimaleCarne = animale.Count(a => a.VerificaMancare(sunca));
-            int numarAnimalePlante = animale.Count(a => a.VerificaMancare(salata));
+            foreach (var animal in animale)
+            {
+                if (animal is Erbivor)
+                {
+                    numarAnimalePlante++;
+                    numarAnimaleMancare++;
+
+                }
+
+                else if (animal is Carnivor)
+                {
+                    numarAnimaleCarne++;
+                    numarAnimaleMancare++;
+
+                }
+
+                else if (animal is Omnivor)
+                {
+                    numarAnimaleOmnivor++;
+                    numarAnimaleMancare++;
+
+                }
+                else
+                {
+                    Console.WriteLine("Some error has occured");
+                }
+
+            }
+
 
             Console.WriteLine($"{numarAnimaleMancare} animale mananca mancare.");
             Console.WriteLine($"{numarAnimaleCarne} animale mananca carne.");
             Console.WriteLine($"{numarAnimalePlante} animale mananca plante.");
+            Console.WriteLine($"{numarAnimaleOmnivor} animale omnivoare.");
+
+
+            for (int i = 0; i < animale.Count; i++)
+            {
+                Console.Write($"{i} ");
+
+                if (animale[i].Nume != null)
+                {
+                    Console.Write($"Nume: {animale[i].Nume} ");
+                }
+
+                Console.WriteLine($"cu greutate de: {animale[i].Greutate}");
+            }
 
             Console.ReadLine();
         }
@@ -100,6 +143,12 @@ namespace NumeleSpatiuluiDeNume
                 case TipAnimal.Urs:
                     return new Omnivor(nume, greutate, dimensiuni, viteza);
                 case TipAnimal.Oaie:
+                    return new Erbivor(nume, greutate, dimensiuni, viteza);
+                case TipAnimal.Veverita:
+                    return new Erbivor(nume, greutate, dimensiuni, viteza);
+                case TipAnimal.Pisica:
+                    return new Omnivor(nume, greutate, dimensiuni, viteza);
+                case TipAnimal.Vaca:
                     return new Erbivor(nume, greutate, dimensiuni, viteza);
                 // Adăugați aici și celelalte tipuri de animale
                 default:

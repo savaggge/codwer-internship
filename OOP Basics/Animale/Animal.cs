@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Animale
 {
@@ -47,7 +44,7 @@ namespace Animale
         // Metodă abstractă pentru verificarea dacă mancarea este potrivită pentru animal
         protected abstract bool VerificaMancare(Mancare m);
 
-    public abstract double Energie();
+        public abstract double Energie();
 
         public void Alearga(decimal distanta)
         {
@@ -67,6 +64,7 @@ namespace Animale
         internal bool VerificaMancare(Planta salata)
         {
             throw new NotImplementedException();
+
         }
 
         internal bool VerificaMancare(Carne sunca)
